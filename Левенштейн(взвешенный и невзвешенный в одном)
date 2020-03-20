@@ -48,5 +48,5 @@ signed main()
 	string f, s;
 	cin >> f >> s;
 
-	cout << lev(f, s,12 ,20,15);
+	cout << lev(f, s, 12, 20, 15);
 }
